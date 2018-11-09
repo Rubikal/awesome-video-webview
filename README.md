@@ -12,10 +12,9 @@ This is your ultimate recipe with minimal changes into supporting full screen we
 
 According to android docs, if a simple quesiton asked, what does a webview do ? The answer would be,
 ```
-<a href="https://developer.android.com/guide/webapps/webview">
 All that WebView does, by default, is show a web page.
-</a>
 ```
+Link to webview docs: <a href="https://developer.android.com/guide/webapps/webview">Go ahead !</a>
 
 Limited capabilities, very little control over the way webview work or look, requires a lot of changes in the FE side if you would like to perform a specific action, and would probably need to implement an interface to deal with some of the UI components in your view.
 
