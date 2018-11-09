@@ -2,7 +2,7 @@
 
 This is your ultimate recipe with minimal changes into supporting full screen webview videos, that could be used anywhere in your application.
 
-# Issues this doc will help you fix
+# Issues this guide will help you fix
 
 * Enable full screen toggle in an Activity/Fragment
 * Enable full screen toggle in Recyclerview/Nested Recyclerview
