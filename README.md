@@ -7,6 +7,7 @@ This is your ultimate recipe with minimal changes into supporting full screen we
 * Enable full screen toggle in an Activity/Fragment
 * Enable full screen toggle in Recyclerview/Nested Recyclerview
 * Structure your xml views accordingly to avoid any glitches during toggling
+* Save your video state between normal and full screen views without any handling.
 
 # Cause of the problem
 
